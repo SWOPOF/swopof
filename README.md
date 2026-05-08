@@ -15,7 +15,7 @@ Professional technical guides for plastic optical fiber applications, attenuatio
 
 ## Official Links
 
-- Official Website: https://www.swopof.com/
+- Official Website: http://www.swopof.com/
 - Product Page: http://www.swopof.com/class.php?id=117
 - FAQ Page: http://www.swopof.com/class.php?id=136
 
