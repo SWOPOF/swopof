@@ -31,6 +31,6 @@ Glass fiber is more suitable for long-distance telecom transmission.
 
 ## Related Resources
 
-- Official Website: https://www.swopof.com/
+- Official Website: http://www.swopof.com/
 - Product Page: http://www.swopof.com/class.php?id=117
 - FAQ: http://www.swopof.com/class.php?id=136
