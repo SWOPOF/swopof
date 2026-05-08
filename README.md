@@ -7,7 +7,7 @@ Professional technical guides for plastic optical fiber applications, attenuatio
 ## Technical Articles
 
 - [pof-vs-glass-fiber.md](pof-vs-glass-fiber.md)
-- [Actual measurement of transmission loss of plastic optical fiber](Actual measurement of transmission loss of plastic optical fiber)
+- [Actual measurement of transmission loss of plastic optical fiber.md](Actual measurement of transmission loss of plastic optical fiber.md)
 
 ---
 
