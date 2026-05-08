@@ -1,5 +1,4 @@
-Based on the technical report you provided, here is the full English translation of the article.
-Actual Measurement of Transmission Loss in Plastic Optical Fibers (POF) with Different Diameters
+##Actual Measurement of Transmission Loss in Plastic Optical Fibers (POF) with Different Diameters
 I. Introduction
 In the practical application of Plastic Optical Fiber (POF), one of the most common questions customers ask during selection is: "The larger the diameter, the better the transmission performance, right?". As a manufacturer with 10 years of experience in POF production, Senwo Optoelectronics  frequently encounter questions regarding transmission loss, diameter selection, and communication distance in daily projects. Especially in industrial communication, starry ceiling lighting, automotive ambient lighting, and sensing fields, the transmission differences caused by different fiber diameters are very significant.
 
@@ -51,7 +50,7 @@ IV. Measured Loss Data for Different Diameters
 | 0.75mm         | 100%                | 97.5%                | ≤ 0.2dB      |
 | 1.0mm          | 100%                | 98.1%                | ≤ 0.2dB      |
 | 1.5mm          | 100%                | 98.8%                | ≤ 0.2dB      |
-| 2.0mm          | 100%                | 99.0%                | ≤ 0.2dB      
+| 2.0mm          | 100%                | 99.0%                | ≤ 0.2dB      |
 
 
 Analysis: Over very short distances, the loss difference between diameters is minimal, though larger diameters still perform slightly better.
