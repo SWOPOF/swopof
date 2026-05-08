@@ -1,49 +1,51 @@
-##Actual Measurement of Transmission Loss in Plastic Optical Fibers (POF) with Different Diameters
-I. Introduction
+## Actual Measurement of Transmission Loss in Plastic Optical Fibers (POF) with Different Diameters
+
+
 In the practical application of Plastic Optical Fiber (POF), one of the most common questions customers ask during selection is: "The larger the diameter, the better the transmission performance, right?". As a manufacturer with 10 years of experience in POF production, Senwo Optoelectronics  frequently encounter questions regarding transmission loss, diameter selection, and communication distance in daily projects. Especially in industrial communication, starry ceiling lighting, automotive ambient lighting, and sensing fields, the transmission differences caused by different fiber diameters are very significant.
 
 To provide a more intuitive analysis of these differences, Senwo conducted actual transmission tests on conventional PMMA plastic optical fibers to serve as a reference for selection.
 
-II. Test Objective
+## Ⅰ. Test Objective
 This test primarily verifies the following:
 Changes in transmission loss for different POF diameters over short distances.
 
 
-The impact of fiber diameter on optical power attenuation.
+- The impact of fiber diameter on optical power attenuation.
 
 
-The suitable diameter ranges for various application scenarios.
+- The suitable diameter ranges for various application scenarios.
 
 
 
-Test Subjects: Common PMMA solid-core plastic optical fibers with diameters of 0.5mm, 0.75mm, 1.0mm, 1.5mm, and 2.0mm.
+- Test Subjects: Common PMMA solid-core plastic optical fibers with diameters of 0.5mm, 0.75mm, 1.0mm, 1.5mm, and 2.0mm.
 
-III. Test Environment and Conditions
+## Ⅱ. Test Environment and Conditions
 Environmental Parameters
-Temperature: 25°C.
+- Temperature: 25°C.
 
 
-Humidity: 48% RH.
+- Humidity: 48% RH.
 
 
 Technical Specifications
-Light Source: 650nm Red LED.
+- Light Source: 650nm Red LED.
 
 
-Equipment: Optical power meter + stable light source module.
+- Equipment: Optical power meter + stable light source module.
 
 
-Material: PMMA Step-Index Plastic Optical Fiber.
+- Material: PMMA Step-Index Plastic Optical Fiber.
 
 
-Test Lengths: 1m, 10m, and 20m.
+- Test Lengths: 1m, 10m, and 20m.
 
 
 
 Note: All fibers were produced from the same batch of raw materials and underwent standard end-face treatment.
 
-IV. Measured Loss Data for Different Diameters
-1. Transmission Loss at 1 Meter
+## Ⅲ. Measured Loss Data for Different Diameters
+- 1. Transmission Loss at 1 Meter
+  
 | Fiber Diameter | Input Optical Power | Output Optical Power | Average Loss |
 | -------------- | ------------------- | -------------------- | ------------ |
 | 0.5mm          | 100%                | 96.8%                | ≤ 0.2dB      |
@@ -55,7 +57,7 @@ IV. Measured Loss Data for Different Diameters
 
 Analysis: Over very short distances, the loss difference between diameters is minimal, though larger diameters still perform slightly better.
 
-2. Transmission Loss at 10 Meters
+- 2. Transmission Loss at 10 Meters
 
 | Fiber Diameter | Input Optical Power | Output Optical Power | Average Loss |
 | -------------- | ------------------- | -------------------- | ------------ |
@@ -67,7 +69,7 @@ Analysis: Over very short distances, the loss difference between diameters is mi
 
 Analysis: Within 10 meters, the loss in smaller diameters becomes apparent but remains suitable for short-distance decorative lighting. Diameters of 1.0mm and above are suitable for short-distance communication and sensing.
 
-3. Transmission Loss at 20 Meters
+- 3. Transmission Loss at 20 Meters
 
 | Fiber Diameter | Input Optical Power | Output Optical Power | Average Loss |
 | -------------- | ------------------- | -------------------- | ------------ |
@@ -79,47 +81,47 @@ Analysis: Within 10 meters, the loss in smaller diameters becomes apparent but r
 
 Analysis: At a practical distance of 20 meters, the advantage of larger diameters is more pronounced, especially in industrial communication or lighting scenarios with high stability requirements.
 
-V. Application Scenarios by Diameter
-0.5mm – 0.75mm: Short-distance decorative lighting, starry ceilings, and high-density wiring environments.
+## Ⅳ. Application Scenarios by Diameter
+- 0.5mm – 0.75mm: Short-distance decorative lighting, starry ceilings, and high-density wiring environments.
 
 
-1.0mm: Short-distance industrial communication, automotive ambient lighting, and sensing systems.
+- 1.0mm: Short-distance industrial communication, automotive ambient lighting, and sensing systems.
 
 
-1.5mm – 2.0mm: Long-distance high-brightness lighting, industrial communication, and high-stability scenarios.
+- 1.5mm – 2.0mm: Long-distance high-brightness lighting, industrial communication, and high-stability scenarios.
 
 
-VI. Critical Considerations during Testing
-End-Face Processing: Uneven end-faces significantly increase loss.
+## VI. Critical Considerations during Testing
+- End-Face Processing: Uneven end-faces significantly increase loss.
 
 
-Bending Radius: Excessive bending increases attenuation, particularly for smaller diameters.
+- Bending Radius: Excessive bending increases attenuation, particularly for smaller diameters.
 
 
-Light Source Matching: Coupling efficiency varies by source; specifications must match the fiber.
+- Light Source Matching: Coupling efficiency varies by source; specifications must match the fiber.
 
 
-VII. Engineering Recommendations
-Short-distance Decoration: 0.5 – 0.75mm.
+## Ⅵ. Engineering Recommendations
+- Short-distance Decoration: 0.5 – 0.75mm.
 
 
-Industrial Communication & Sensing: 1.0 – 1.5mm.
+- Industrial Communication & Sensing: 1.0 – 1.5mm.
 
 
-Long-distance High-Brightness Lighting: 1.5 – 2.0mm.
+- Long-distance High-Brightness Lighting: 1.5 – 2.0mm.
 
 
 When selecting a fiber diameter, consider the transmission distance, installation space, light source type, budget, and operating environment.
 
-VIII. Summary
+## Ⅶ. Summary
 Through actual measurements, we have found that:
-Larger diameters lead to lower transmission loss.
+- Larger diameters lead to lower transmission loss.
 
 
-End-face quality, bending, and light source matching have a significant impact on performance.
+- End-face quality, bending, and light source matching have a significant impact on performance.
 
 
-Different application scenarios require different fiber diameters.
+- Different application scenarios require different fiber diameters.
 
 
 Ultimately, for plastic optical fiber, performance is not determined solely by the "size of the diameter," but by the synergy of materials, manufacturing processes, structure, and overall system matching.
