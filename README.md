@@ -9,6 +9,7 @@ Professional technical guides for plastic optical fiber applications, attenuatio
 - [pof-vs-glass-fiber](pof-vs-glass-fiber.md)
 - [How to choose a plastic optical fiber manufacturer](How-to-choose-a-plastic-optical-fiber-manufacturer.md)
 - [pof-vs-glass-fiber](pof-vs-glass-fiber.md)
+- [Actual measurement of transmission loss of plastic optical fiber](Actual-measurement-of-transmission-loss-of-plastic-optical-fiber.md)
 
 
 
