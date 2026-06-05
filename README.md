@@ -6,16 +6,20 @@ Professional technical guides for plastic optical fiber applications, attenuatio
 
 ## Technical Articles
 
-- [pof-vs-glass-fiber.md](pof-vs-glass-fiber.md)
+- [pof-vs-glass-fiber](pof-vs-glass-fiber.md)
 - [Actual measurement of transmission loss of plastic optical fiber](Actual-measurement-of-transmission-loss-of-plastic-optical-fiber.md)
+- [Create How to choose a plastic optical fiber manufacturer](url)
 
 ---
 
 ## Official Links
 
-- Official Website: http://www.swopof.com/
-- Product Page: http://www.swopof.com/class.php?id=117
-- FAQ Page: http://www.swopof.com/class.php?id=136
+
+
+- Official Website: http://en.swopof.com
+- Alibaba Store: https://sunwayunion.en.alibaba.com/
+- Product Page: https://sunwayunion.en.alibaba.com/productlist.html
+- Contact Us: https://sunwayunion.en.alibaba.com/contactinfo.html
 
 ---
 
